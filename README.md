@@ -9,6 +9,7 @@ The project uses mysql database to store the User's info
 Prerequisites: 
 
 1.Install Docker and docker-compose
+
 2.Make sure you create the mysql database 'main' (check the docker-compose file)
 
 To run the project :
